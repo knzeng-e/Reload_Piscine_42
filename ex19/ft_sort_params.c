@@ -1,6 +1,3 @@
-#include <stdio.h>
-
-
 void	ft_putchar(char c);
 
 void	ft_swapstr(char **vector, int index1, int index2)
